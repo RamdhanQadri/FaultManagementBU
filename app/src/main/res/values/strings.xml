@@ -1,0 +1,154 @@
+<resources>
+    <string name="app_name">Fault Management</string>
+    <string name="no_trx">No Trx > 3 Jam</string>
+    <string name="no_trx_24">No Trx > 1 Hari</string>
+    <string name="last_trx">Last Tunai :</string>
+    <string name="open_problem">Open Problem :</string>
+    <string name="downtime">Downtime :</string>
+    <string name="downtime_tunai_day">Downtime Tunai :</string>
+    <string name="downtimehari">Hari</string>
+    <string name="tglProblem">Tanggal Problem :</string>
+    <string name="wktInsert">Waktu Insert :</string>
+    <string name="kaset1">Kaset 1 :</string>
+    <string name="kaset2">Kaset 2 :</string>
+    <string name="kaset3">Kaset 3 :</string>
+    <string name="kaset4">Kaset 4 :</string>
+    <string name="lembarKeluar">Lembar Keluar :</string>
+    <string name="pagu">Pagu :</string>
+    <string name="totalLembarKeluar">Total Lembar Keluar :</string>
+    <string name="sisaLembarKeluar">Sisa Saldo :</string>
+    <string name="kanwil">Kanwil :</string>
+    <string name="kc">Kanca :</string>
+    <string name="pengelola">Name Uker :</string>
+    <string name="pengelolakode">Kode Uker :</string>
+    <string name="merkatm">Merk Atm :</string>
+    <string name="denom">Denom :</string>
+    <string name="pagudinamis">Pagu Dinamis :</string>
+    <string name="pagulembar">Pagu Lembar :</string>
+    <string name="pagudays">Pagu Days :</string>
+    <string name="latitude">Latitude :</string>
+    <string name="longitude">Longitude :</string>
+    <string name="ket">Keterangan Problem :</string>
+    <string name="outflm">Out :</string>
+    <string name="inflm">In :</string>
+    <string name="total">Total :</string>
+
+
+    <string name="search">Search</string>
+
+    <string name="bnv_bri">BRI</string>
+    <string name="bnv_slm">SLM</string>
+    <string name="bnv_kelolaan">KELOLAAN</string>
+    <string name="monitor">Monitor</string>
+
+    <array name="sentra">
+        <item>SSI AMBON</item>
+        <item>SSI BALIKPAPAN</item>
+        <item>SSI BANDA ACEH</item>
+        <item>SSI BANJARBARU</item>
+        <item>SSI BANJARMASIN</item>
+        <item>SSI BANYUWANGI</item>
+        <item>SSI BATAM</item>
+        <item>SSI BEKASI</item>
+        <item>SSI BENGKULU</item>
+        <item>SSI BIMA</item>
+        <item>SSI BOGOR</item>
+        <item>SSI BOJONEGORO</item>
+        <item>SSI BSD</item>
+        <item>SSI CIBINONG</item>
+        <item>SSI CIKARANG</item>
+        <item>SSI DENPASAR</item>
+        <item>SSI DEPOK</item>
+        <item>SSI DUKUH BAWAH</item>
+        <item>SSI DUMAI</item>
+        <item>SSI DURI</item>
+        <item>SSI ENDE</item>
+        <item>SSI FATMAWATI</item>
+        <item>SSI GORONTALO</item>
+        <item>SSI HARMONI 1</item>
+        <item>SSI HARMONI 2</item>
+        <item>SSI JAMBI</item>
+        <item>SSI JATIWARNA</item>
+        <item>SSI JAYAPURA</item>
+        <item>SSI KARAWANG</item>
+        <item>SSI KENDARI</item>
+        <item>SSI KUPANG</item>
+        <item>SSI LANGSA</item>
+        <item>SSI LHOKSEUMAWE</item>
+        <item>SSI LUWUK</item>
+        <item>SSI MANADO</item>
+        <item>SSI MATARAM</item>
+        <item>SSI MAUMERE</item>
+        <item>SSI MEDAN</item>
+        <item>SSI MEULABOH</item>
+        <item>SSI MUARA BUNGO</item>
+        <item>SSI PADANG</item>
+        <item>SSI PADANG SIDEMPUAN</item>
+        <item>SSI PALANGKARAYA</item>
+        <item>SSI PALOPO</item>
+        <item>SSI PALU</item>
+        <item>SSI PANGKALAN KERINCI</item>
+        <item>SSI PASURUAN</item>
+        <item>SSI PEKANBARU</item>
+        <item>SSI PEMATANG SIANTAR</item>
+        <item>SSI PONDOK BAMBU</item>
+        <item>SSI RANTAU PRAPAT</item>
+        <item>SSI RENGAT</item>
+        <item>SSI SAMARINDA</item>
+        <item>SSI SAMPIT</item>
+        <item>SSI SELONG</item>
+        <item>SSI SEMARANG</item>
+        <item>SSI SERANG</item>
+        <item>SSI SINGARAJA</item>
+        <item>SSI SORONG</item>
+        <item>SSI SUMBAWA</item>
+        <item>SSI TANGERANG 1</item>
+        <item>SSI TANGERANG 2</item>
+        <item>SSI TERNATE</item>
+        <item>SSI TJ. BALAI KARIMUN</item>
+        <item>SSI TJ. PINANG</item>
+        <item>SSI UJUNG BATU</item>
+    </array>
+
+    <array name="kategoriSlm">
+        <item>FMV - FORCE MAJEURE</item>
+        <item>FMV - REPLACEMENT</item>
+        <item>FMV - VANDALISME</item>
+        <item>FMV - VANDALISME PEST</item>
+        <item>NETWORK - PROBLEM KONEKSI</item>
+        <item>NETWORK - PROBLEM MODEM</item>
+        <item>OPS. ATM - ADM BRINETS</item>
+        <item>OPS. ATM - ADM LOKASI</item>
+        <item>OPS. ATM - AKSES LOKASI</item>
+        <item>OPS. ATM - ATM GARANSI</item>
+        <item>OPS. ATM - ATM MERAH PUTIH</item>
+        <item>OPS. ATM - ATM SWITCHING</item>
+        <item>OPS. ATM - CHANGE DENOM</item>
+        <item>OPS. ATM - HANDOVER</item>
+        <item>OPS. ATM - IMPLEMENTASI PSW BRI CRM-ATM</item>
+        <item>OPS. ATM - INDIKASI SKIMMING</item>
+        <item>OPS. ATM - PENGOSONGAN DISMANTLE ATM</item>
+        <item>OPS. ATM - PENGOSONGAN HANDOVER</item>
+        <item>OPS. ATM - RELOKASI</item>
+        <item>OPS. ATM - RENOVASI</item>
+        <item>OPS. ATM - RESUPERVISI</item>
+        <item>PROBLEM DB - DATA NOT VALID</item>
+        <item>PROBLEM LOKASI - UP TUNAI</item>
+        <item>PROBLEM PART - UP TUNAI</item>
+        <item>PROBLEM PART ATM</item>
+        <item>REPLACEMENT ATM - BATCH</item>
+        <item>REPLACEMENT ATM - SURAT PERMOHONAN</item>
+        <item>SUPPORT OPS. - KASET</item>
+        <item>SUPPORT OPS. - LISTRIK</item>
+        <item>SUPPORT OPS. - PMS LAN</item>
+    </array>
+
+    <array name="kategoriProblem">
+        <item>CO</item>
+        <item>CR</item>
+        <item>DF</item>
+        <item>EPP</item>
+        <item>OFF</item>
+        <item>STG</item>
+    </array>
+</resources>

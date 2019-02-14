@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+            android:id="@+id/bri_bnv"
+            android:enabled="true"
+            android:title="@string/bnv_bri"
+            android:icon="@drawable/ic_x"
+            app:showAsAction="ifRoom"/>
+
+    <item
+            android:id="@+id/slm_bnv"
+            android:enabled="true"
+            android:icon="@drawable/ic_slm"
+            android:title="@string/bnv_slm"
+            app:showAsAction="ifRoom"/>
+
+    <item
+            android:id="@+id/kelolaan_bnv"
+            android:enabled="true"
+            android:icon="@drawable/ic_kelolaan"
+            android:title="@string/bnv_kelolaan"
+            app:showAsAction="ifRoom"/>
+</menu>

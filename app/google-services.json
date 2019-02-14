@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "255634528993",
+    "firebase_url": "https://faultmanagement-8ea65.firebaseio.com",
+    "project_id": "faultmanagement-8ea65",
+    "storage_bucket": "faultmanagement-8ea65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255634528993:android:9631a742bb0c011a",
+        "android_client_info": {
+          "package_name": "r.fm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255634528993-d00idgm6v9vpsvcv1sc6fjstutt829cj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "r.fm",
+            "certificate_hash": "2846116dc2dae49a566759cdfc45aeee66d66192"
+          }
+        },
+        {
+          "client_id": "255634528993-lceikcrh4582k2rq5o2m6lpr6crcu1sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPaIA2IQsBHTdLW-vOCoogUJyqGq8VE8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255634528993-lceikcrh4582k2rq5o2m6lpr6crcu1sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
